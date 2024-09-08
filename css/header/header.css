@@ -1,0 +1,25 @@
+.header{
+  padding:39px 120px 36px 120px;
+}
+.header_nav{
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header_nav_list{
+  display: flex;
+  justify-content: space-between; 
+  gap:50px;
+}
+.header_nav_link{
+  font-family: Noto serif;
+  font-size:20px; 
+}
+.header_nav_acc{
+  display:flex;
+  justify-content: space-between;
+
+}
+.account{
+  padding-right:36px;
+}
