@@ -1,17 +1,16 @@
 .second{
-  display:flex;
-  justify-content: center;
+
 }
 .second_section{
-  padding:175px 151px 180px 135px;
-
-
+  /* border: 2px solid black; */
+  padding: 175px 271px 169px 255px;
 }
 
 .second_section_container{
   display: flex;
   justify-content: space-between;
   align-items: center;
+
 
   width:1394px;
   height:326px;
